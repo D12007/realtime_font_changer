@@ -1,0 +1,31 @@
+.heading{
+    font-size:25px;
+    width:100%;
+    margin:0px;
+    box-shadow:5px 5px 5px grey;
+}
+.note{
+    font-size:15px;
+    color:black;
+}
+.footer{
+    bottom:0;
+    position:fixed;
+    width:100%;
+    text-align: center;
+    background-color:grey;
+    color:white;
+    line-height:2;
+}
+canvas{
+    border:5px solid BLACK;
+    border-radius:20px;
+    box-shadow:15px 15px 15px grey;
+}
+video{
+    border:5px solid black;
+    border-radius:200px;
+    background-color:grey;
+    box-shadow:10px 10px 10px grey;
+
+}
